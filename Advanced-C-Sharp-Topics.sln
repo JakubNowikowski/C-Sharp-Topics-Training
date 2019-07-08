@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced-C-Sharp-Topics", "Advanced-C-Sharp-Topics\Advanced-C-Sharp-Topics.csproj", "{CBEA89E5-4EA9-46BC-89CC-3E92A06F0D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{109CD658-64D5-444A-BEF7-8EDB9EF85654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBEA89E5-4EA9-46BC-89CC-3E92A06F0D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEA89E5-4EA9-46BC-89CC-3E92A06F0D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEA89E5-4EA9-46BC-89CC-3E92A06F0D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEA89E5-4EA9-46BC-89CC-3E92A06F0D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109CD658-64D5-444A-BEF7-8EDB9EF85654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109CD658-64D5-444A-BEF7-8EDB9EF85654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109CD658-64D5-444A-BEF7-8EDB9EF85654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109CD658-64D5-444A-BEF7-8EDB9EF85654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91EEA1D-7BDE-47D3-B3B1-697341477F81}
+	EndGlobalSection
+EndGlobal

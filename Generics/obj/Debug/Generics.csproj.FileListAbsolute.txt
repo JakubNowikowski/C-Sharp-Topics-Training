@@ -1,0 +1,7 @@
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\bin\Debug\Generics.exe.config
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\bin\Debug\Generics.exe
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\bin\Debug\Generics.pdb
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\obj\Debug\Generics.exe
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\obj\Debug\Generics.pdb
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
