@@ -1,0 +1,7 @@
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\obj\Debug\SimpleDelegate.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

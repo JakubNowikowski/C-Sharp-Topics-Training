@@ -1,0 +1,13 @@
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\GenericDelegate\obj\Debug\GenericDelegate.pdb
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.pdb
