@@ -1,0 +1,11 @@
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.deps.json
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.runtimeconfig.json
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.runtimeconfig.dev.json
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.dll
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\bin\Debug\netcoreapp2.1\LambdaExpression.pdb
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.csprojAssemblyReference.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.AssemblyInfoInputs.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.AssemblyInfo.cs
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.dll
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LambdaExpression\obj\Debug\netcoreapp2.1\LambdaExpression.pdb

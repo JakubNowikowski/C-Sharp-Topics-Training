@@ -11,3 +11,10 @@ C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug
 C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
 C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.exe
 C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.pdb
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.csprojAssemblyReference.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\GenericDelegate\obj\Debug\GenericDelegate.pdb
