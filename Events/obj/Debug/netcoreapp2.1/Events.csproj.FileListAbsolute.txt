@@ -1,0 +1,11 @@
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\bin\Debug\netcoreapp2.1\Events.deps.json
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\bin\Debug\netcoreapp2.1\Events.runtimeconfig.json
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\bin\Debug\netcoreapp2.1\Events.runtimeconfig.dev.json
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\bin\Debug\netcoreapp2.1\Events.dll
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\bin\Debug\netcoreapp2.1\Events.pdb
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\obj\Debug\netcoreapp2.1\Events.csprojAssemblyReference.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\obj\Debug\netcoreapp2.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\obj\Debug\netcoreapp2.1\Events.AssemblyInfoInputs.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\obj\Debug\netcoreapp2.1\Events.AssemblyInfo.cs
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\obj\Debug\netcoreapp2.1\Events.dll
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\Events\obj\Debug\netcoreapp2.1\Events.pdb
