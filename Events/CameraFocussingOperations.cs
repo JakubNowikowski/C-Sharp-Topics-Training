@@ -15,7 +15,6 @@ namespace Events
         //public delegate void CameraFocussedEventHandler(object source, CameraEventArgs args);
         //public event CameraFocussedEventHandler CameraFocussed;
 
-
         // shorter form with special EventHandler delegate
         public event EventHandler<CameraEventArgs> CameraFocussed;
 
