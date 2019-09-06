@@ -1,0 +1,11 @@
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.deps.json
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.json
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.dev.json
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.pdb
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.csprojAssemblyReference.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfoInputs.cache
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfo.cs
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.pdb
