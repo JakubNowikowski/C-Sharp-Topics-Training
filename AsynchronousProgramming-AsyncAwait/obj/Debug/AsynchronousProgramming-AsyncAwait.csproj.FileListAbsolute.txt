@@ -1,0 +1,15 @@
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\bin\Debug\AsynchronousProgramming-AsyncAwait.exe.config
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\bin\Debug\AsynchronousProgramming-AsyncAwait.exe
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\bin\Debug\AsynchronousProgramming-AsyncAwait.pdb
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\AsynchronousProgramming-AsyncAwait.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\MainWindow.g.cs
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\App.g.cs
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\AsynchronousProgramming-AsyncAwait_MarkupCompile.cache
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\AsynchronousProgramming-AsyncAwait_MarkupCompile.lref
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\MainWindow.baml
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\AsynchronousProgramming-AsyncAwait.g.resources
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\AsynchronousProgramming_AsyncAwait.Properties.Resources.resources
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\AsynchronousProgramming-AsyncAwait.csproj.GenerateResource.cache
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\AsynchronousProgramming-AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\AsynchronousProgramming-AsyncAwait.exe
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\AsynchronousProgramming-AsyncAwait\obj\Debug\AsynchronousProgramming-AsyncAwait.pdb
