@@ -1,0 +1,7 @@
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\Tuple\bin\Debug\Tuple.exe.config
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\Tuple\bin\Debug\Tuple.exe
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\Tuple\bin\Debug\Tuple.pdb
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\Tuple\obj\Debug\Tuple.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\Tuple\obj\Debug\Tuple.exe
+C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\Tuple\obj\Debug\Tuple.pdb
