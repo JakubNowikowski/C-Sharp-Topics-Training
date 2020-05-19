@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WfpJkwKkbe6Vl9DRslezvoHnlcup2zkFfjKxRoFE7JJGRLFyENnwDz/pm6Xda9QqnAj1fl1Wf4Xirr9JFQ6/Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuban\\source\\repos\\C-Sharp-Topics-Training\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuban\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\kuban\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\kuban\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\kuban\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\kuban\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\kuban\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\kuban\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

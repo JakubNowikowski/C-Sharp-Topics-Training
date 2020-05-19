@@ -5,3 +5,10 @@ C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\obj\Debug\
 C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
 C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\obj\Debug\SimpleDelegate.exe
 C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\SimpleDelegate\obj\Debug\SimpleDelegate.csprojAssemblyReference.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\SimpleDelegate\obj\Debug\SimpleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

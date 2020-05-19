@@ -5,3 +5,10 @@ C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\obj\Debug\Generi
 C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\obj\Debug\Generics.exe
 C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\obj\Debug\Generics.pdb
 C:\Users\IOJNOWIK\source\repos\Advanced-C-Sharp-Topics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\Generics\bin\Debug\Generics.exe.config
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\Generics\bin\Debug\Generics.exe
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\Generics\bin\Debug\Generics.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\Generics\obj\Debug\Generics.exe
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\Generics\obj\Debug\Generics.pdb

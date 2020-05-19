@@ -9,3 +9,15 @@ C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2
 C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfo.cs
 C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.dll
 C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.deps.json
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.json
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.runtimeconfig.dev.json
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\bin\Debug\netcoreapp2.1\LINQ.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.csprojAssemblyReference.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfoInputs.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.AssemblyInfo.cs
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.dll
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\LINQ\obj\Debug\netcoreapp2.1\LINQ.genruntimeconfig.cache

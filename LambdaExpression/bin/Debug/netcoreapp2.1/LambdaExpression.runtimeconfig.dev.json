@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\OptiNav\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\OptiNav\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\kuban\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kuban\\.nuget\\packages"
     ]
   }
 }

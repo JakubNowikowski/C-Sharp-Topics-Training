@@ -5,3 +5,10 @@ C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\NullableTypes\obj\Debug\N
 C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
 C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\NullableTypes\obj\Debug\NullableTypes.exe
 C:\Users\IOJNOWIK\source\repos\C-Sharp-Topics-Training\NullableTypes\obj\Debug\NullableTypes.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\NullableTypes\bin\Debug\NullableTypes.exe
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\NullableTypes\bin\Debug\NullableTypes.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\NullableTypes\obj\Debug\NullableTypes.csprojAssemblyReference.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\NullableTypes\obj\Debug\NullableTypes.exe
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\NullableTypes\obj\Debug\NullableTypes.pdb

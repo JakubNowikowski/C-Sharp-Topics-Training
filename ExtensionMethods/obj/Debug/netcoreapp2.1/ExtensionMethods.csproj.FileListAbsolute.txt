@@ -9,3 +9,15 @@ C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug
 C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfo.cs
 C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.dll
 C:\Users\OptiNav\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.deps.json
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.json
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.dll
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.dll
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.pdb
+C:\Users\kuban\source\repos\C-Sharp-Topics-Training\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.genruntimeconfig.cache
